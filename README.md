@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+
 > Here i am reviewing my own code from a past project.
 
 ## Built With
